@@ -2,7 +2,6 @@ import pandas as pd
 import json
 from bz2 import BZ2File
 import os
-import openpyxl
 import copy
 print("Program is running! Close the excel file if open, otherwise the program will crash :D")
 
