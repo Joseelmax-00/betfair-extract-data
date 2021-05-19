@@ -1,14 +1,14 @@
 # betfair-data
 
 # betfair-data.py was created by José Maquia, eeseljose@gmail.com, github.com/Joseelmax-00.
-This program was created for an Upwork.com client, If you have a .tar file that you got from 
+This program was created for an Upwork.com client, If you have a .tar file with hystorical data from 
 Betfair.com you can use this program to extract the main datapoints from it.
 
 
 ## Description
 
 ```markdown
-This is a very simple program that works if you have downloaded a file with betfair hystorical data,
+This is a very simple program that works if you have downloaded a .tar file with betfair hystorical data,
 you need to extract the folder with the year name containing all the data from the year into the 
 Data folder, run the program, and it will extract that data from the .json files inside the .tar 
 files into an excel spreadsheet. It's a simple click and run, and works with every event, even 
